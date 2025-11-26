@@ -84,10 +84,12 @@ This app works with both **REDCap API** imports and **uploaded CSV/XLSX files**.
 - Optional jitter to reduce node overlap
 
 
-Below is an animated demonstration of the interactive tidy-wave recruitment tree
-rendered in the Streamlit app:
+Below is an animated demonstration of the interactive tidy-wave recruitment tree generated from REDCAP in the Streamlit app:
 ![Recruitment Tree Display](recruitment_tree.gif)
 
+Data uploaded from local device:
+![SSPSE Display](website1.png)
+![SSPSE Display](website2.png)
 
 ### 2. Network Size Cleaning Options
 - Display network size distribution in the sample
@@ -102,7 +104,7 @@ rendered in the Streamlit app:
 - Compute **SS-PSE**  
 - Generate posterior distributions plots
 
-![SSPSE Display](sspse.png)
+![SSPSE Display](website3.png)
 
 ### 4. PDF Research Report (ReportLab)
 - Includes:
@@ -117,6 +119,9 @@ rendered in the Streamlit app:
 ### 5. Model Fit Interpretation Tab
 Includes examples of **Good Fit** vs **Poor Fit** SS-PSE posterior curves, explaining how to evaluate prior population size imputed.
 
+Full website demonstration:
+![SSPSE Display](website4.png)
+![SSPSE Display](website5.png)
 ---
 
 ## 🔧 Quick Start Guide
