@@ -113,7 +113,8 @@ Data uploaded from local device:
   - Site-level summaries  
   - Network size cleaning diagnostics  
   - Gile’s SS weights summaries  
-  - SS-PSE posterior tables and plots  
+  - SS-PSE posterior tables and plots
+    ![SSPSE Display](sspse.png)
 - Completely automated  
 
 ### 5. Model Fit Interpretation Tab
