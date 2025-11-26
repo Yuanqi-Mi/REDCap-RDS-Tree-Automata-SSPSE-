@@ -75,7 +75,10 @@ This app works with both **REDCap API** imports and **uploaded CSV/XLSX files**.
 - Quality **layered tidy** visualization  
 - Optional jitter to reduce node overlap
 
-![Recruitment Tree Display](https://raw.githubusercontent.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE/main/assets/recruitment_tree.gif)
+
+Below is an animated demonstration of the interactive tidy-wave recruitment tree
+rendered in the Streamlit app:
+![Recruitment Tree Display](recruitment_tree.gif)
 
 
 ### 2. Network Size Cleaning Options
