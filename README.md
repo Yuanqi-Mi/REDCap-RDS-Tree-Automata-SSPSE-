@@ -102,7 +102,7 @@ rendered in the Streamlit app:
 - Compute **SS-PSE**  
 - Generate posterior distributions plots
 
-![SSPSE Display](sspse_example.png)
+![SSPSE Display](sspse.pdf)
 
 ### 4. PDF Research Report (ReportLab)
 - Includes:
