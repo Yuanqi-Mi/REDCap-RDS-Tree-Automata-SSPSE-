@@ -109,4 +109,50 @@ Includes examples of **Good Fit** vs **Poor Fit** SS-PSE posterior curves, expla
 
 ---
 
+## 🔧 Quick Start Guide
 
+### 1️⃣ Installation
+
+#### Clone the repository
+```bash
+git clone https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE.git
+cd REDCap-RDS-Tree-Automata-SSPSE
+
+
+#### Install Python dependencies: requires Python 3.10+.
+```bash
+pip install -r requirements.txt
+```
+#### Install R Dependencies
+
+This app relies on two R scripts:
+
+compute_rds_weights.R
+
+compute_sspse.R
+
+Install required R packages:
+
+```r
+install.packages(c("RDS", "sspse"))
+```
+
+macOS users: ensure Rscript is on your PATH:
+```bash
+which Rscript
+```
+Windows users: modify the path to Rscript.exe in app7.py:
+```python
+def get_rscript_path():
+    return r"C:\Program Files\R\R-4.4.1\bin\Rscript.exe"
+```
+
+### 2️⃣ Launch the APP
+
+Run Streamlit:
+```bash
+streamlit run app7.py
+```
+
+Your browser will automatically open at:
+http://localhost:8501/
