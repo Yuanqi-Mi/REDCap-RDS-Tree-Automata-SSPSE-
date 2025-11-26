@@ -100,7 +100,9 @@ rendered in the Streamlit app:
 - Split trees by site prefix  
 - Compute **Gile’s SS Weights** 
 - Compute **SS-PSE**  
-- Generate posterior distributions plots  
+- Generate posterior distributions plots
+
+![SSPSE Display](sspse_example.png)
 
 ### 4. PDF Research Report (ReportLab)
 - Includes:
