@@ -1,6 +1,13 @@
 # REDCap-RDS-Tree-Automata-SSPSE-
 A open access Streamlit-based tool for visualizing REDCap RDS recruitment trees, generating site-level Gile’s SS weights and SS-PSE population size estimates.
+        
 
+**Author:** Yuanqi Mi  
+**Python version:** 3.10+  
+**App type:** Streamlit Web Application  
+**Updated:** 2025-11  
+
+---
 
 # Requirements / Dependency Versions
 
@@ -11,16 +18,9 @@ R 4.1+
 Required R packages: RDS, sspse
 
 Required Python libraries: streamlit, numpy, pandas, plotly, networkx, reportlab, requests
-        
 
-# REDCap RDS Tree Automata 
 
-**Author:** Yuanqi Mi  
-**Python version:** 3.10+  
-**App type:** Streamlit Web Application  
-**Updated:** 2025-11  
 
----
 
 ## RDS Methodology Documentation
 
