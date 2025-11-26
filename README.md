@@ -1,5 +1,5 @@
 # REDCap-RDS-Tree-Automata-SSPSE-
-A open access Streamlit-based tool for visualizing REDCap RDS recruitment trees, generating site-level Gile’s SS weights and SS-PSE population size estimates.
+An open access Streamlit-based tool for visualizing REDCap RDS recruitment trees, generating site-level Gile’s SS weights and SS-PSE population size estimates.
         
 
 **Author:** Yuanqi Mi  
